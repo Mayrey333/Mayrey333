@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects that integrate geospatial intelligence with cutting-edge technologies to address real-world challenges and create positive societal impact
 - 📫 Reach me at mayrey3333@gmail.com. I'm always open to connecting with fellow enthusiasts and professionals to explore new opportunities and exchange ideas
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: exploring new destinations ignites my sense of wonder and feeds my soul
+- ⚡ Fun fact: I once tried to use machine learning to predict the ending of a romance novel... turns out, love can't be quantified
 
 <!---
 Mayrey333/Mayrey333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
